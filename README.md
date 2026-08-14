@@ -1,6 +1,8 @@
 <!-- BANNIÈRE -->
 
-  ![Banner](./assets/banner.png)
+  <p align="center">
+  <img src="./assets/banner.png" alt="Mohamed Attahir Diallo - Developer in progress" />
+</p>
 
 
 <!-- ANIMATION DE TEXTE -->
@@ -28,13 +30,13 @@ J'apprends en construisant des projets, en expérimentant de nouvelles technolog
 ### 🟢 Technologies que j'utilise régulièrement
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" alt="Technologies utilisées">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ### 🟡 Technologies que j'apprends actuellement
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mysql,postgres,c" alt="Technologies en apprentissage">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mysql,postgres" />
 </p>
 
 > 🌱 J'apprends principalement en construisant des projets et en mettant directement mes connaissances en pratique.
