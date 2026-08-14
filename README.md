@@ -30,7 +30,7 @@ J'apprends en construisant des projets, en expérimentant de nouvelles technolog
 ### 🟢 Technologies que j'utilise régulièrement
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,git,github,vscode" />
 </p>
 
 ### 🟡 Technologies que j'apprends actuellement
