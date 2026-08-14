@@ -1,8 +1,8 @@
 <!-- BANNIÈRE -->
 
-<p align="center">
+<div align="center">
   <img src="./assets/banner.png" alt="Mohamed Attahir Diallo - Developer in progress" width="100%">
-</p>
+</div>
 
 <!-- ANIMATION DE TEXTE -->
 
