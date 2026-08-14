@@ -1,8 +1,7 @@
 <!-- BANNIÈRE -->
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Mohamed Attahir Diallo - Developer in progress" width="100%">
-</p>
+  ![Banner](./assets/banner.png)
+
 
 <!-- ANIMATION DE TEXTE -->
 
@@ -45,8 +44,8 @@ J'apprends en construisant des projets, en expérimentant de nouvelles technolog
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DialloMoahamed&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DialloMoahamed&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=DialloMoahamed&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DialloMoahamed&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
